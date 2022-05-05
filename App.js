@@ -9,8 +9,6 @@ import { SafeArea } from "./src/components/utility/safe-area.component";
 
 import { restRequest } from "./src/services/restaurants/restaurants.service";
 
-//this is a test
-
 import { NavigationContainer } from "@react-navigation/native";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import { Ionicons } from "@expo/vector-icons";

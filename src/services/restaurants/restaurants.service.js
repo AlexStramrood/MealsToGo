@@ -16,3 +16,5 @@ restaurantsRequest()
   .catch((_err) => {
     console.log("error");
   });
+
+//this is the file before the camelize
